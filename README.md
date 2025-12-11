@@ -26,6 +26,9 @@ This is an end-to-end ecommerce analytics project that demonstrates a complete *
 
 ---
 
+
+<img width="1920" height="1080" alt="Blue and White Modern Data Analysis Presentation" src="https://github.com/user-attachments/assets/021f269b-936e-41b2-b293-87b0cdc8909e" />
+
 ## Project Workflow
 
 ```text
